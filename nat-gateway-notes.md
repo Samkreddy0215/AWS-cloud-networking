@@ -22,3 +22,30 @@ Private Subnet → NAT Gateway → Internet Gateway → Internet
 
 ### Private Subnet
 0.0.0.0/0 → NAT Gateway
+
+## Additional NAT Gateway Notes
+
+### Why NAT Gateway is Needed
+
+Private EC2 instances often require Internet access for:
+
+* Operating system updates
+* Package downloads
+* Accessing external APIs
+
+### Route Example
+
+0.0.0.0/0 → NAT Gateway
+
+This route allows outbound Internet traffic from a private subnet.
+
+### Traffic Flow
+
+Private EC2 → NAT Gateway → Internet Gateway → Internet
+
+### Important Points
+
+* NAT Gateway is used by Private Subnets.
+* Internet cannot directly access Private EC2 instances.
+* NAT Gateway provides outbound Internet access only.
+* NAT Gateway must be placed in a Public Subnet.
