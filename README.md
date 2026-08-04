@@ -184,3 +184,10 @@ This repository is designed to:
 - Amazon VPC Network Access Analyzer
 - Elastic IP
 - IPv6 Networking
+
+## Hands-on Observations
+
+- Reviewed the IPAM Dashboard.
+- Observed IP Pools and Allocations.
+- Understood hierarchical IP management.
+- Learned how AWS Organizations simplifies enterprise IP governance.
