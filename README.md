@@ -187,7 +187,13 @@ This repository is designed to:
 
 ## Hands-on Observations
 
-- Reviewed the IPAM Dashboard.
+- Reviewed the IPAM Dashboard.## Hands-on Observations
+
+- Reviewed Amazon VPC Lattice Services.
+- Examined Service-Level Access Policies.
+- Understood IAM authorization flow.
+- Learned how service policies enforce Zero Trust networking.
 - Observed IP Pools and Allocations.
 - Understood hierarchical IP management.
 - Learned how AWS Organizations simplifies enterprise IP governance.
+
