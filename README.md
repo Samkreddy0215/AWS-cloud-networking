@@ -197,3 +197,9 @@ This repository is designed to:
 - Understood hierarchical IP management.
 - Learned how AWS Organizations simplifies enterprise IP governance.
 
+## Hands-on Observations
+
+- Reviewed Route Tables and Security Groups.
+- Compared Network Access Scope Analysis with Reachability Analyzer.
+- Identified how AWS validates connectivity paths.
+- Learned how enterprise teams troubleshoot network access issues.
