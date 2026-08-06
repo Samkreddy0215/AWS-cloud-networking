@@ -203,3 +203,10 @@ This repository is designed to:
 - Compared Network Access Scope Analysis with Reachability Analyzer.
 - Identified how AWS validates connectivity paths.
 - Learned how enterprise teams troubleshoot network access issues.
+
+## Hands-on Observations
+
+- Reviewed AWS Direct Connect Connections.
+- Examined Direct Connect Gateway.
+- Compared Maximum Resiliency and High Resiliency architectures.
+- Understood how BGP and VPN provide automatic failover.
