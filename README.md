@@ -210,3 +210,11 @@ This repository is designed to:
 - Examined Direct Connect Gateway.
 - Compared Maximum Resiliency and High Resiliency architectures.
 - Understood how BGP and VPN provide automatic failover.
+
+## Hands-on Observations
+
+- Reviewed AWS Transit Gateway.
+- Reviewed Transit Gateway Attachments.
+- Learned how Connect Attachments use GRE tunnels.
+- Understood BGP route exchange between SD-WAN appliances and AWS.
+- Reviewed enterprise hybrid cloud architecture using AWS Transit Gateway Connect.
