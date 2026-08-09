@@ -218,3 +218,11 @@ This repository is designed to:
 - Learned how Connect Attachments use GRE tunnels.
 - Understood BGP route exchange between SD-WAN appliances and AWS.
 - Reviewed enterprise hybrid cloud architecture using AWS Transit Gateway Connect.
+
+## Hands-on Observations
+
+- Reviewed AWS Network Firewall TLS Inspection.
+- Examined TLS Inspection Configurations.
+- Understood ACM certificate integration.
+- Reviewed Stateful Rule inspection workflow.
+- Learned how HTTPS traffic is decrypted, inspected, and re-encrypted.
