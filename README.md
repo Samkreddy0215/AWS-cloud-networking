@@ -226,3 +226,11 @@ This repository is designed to:
 - Understood ACM certificate integration.
 - Reviewed Stateful Rule inspection workflow.
 - Learned how HTTPS traffic is decrypted, inspected, and re-encrypted.
+
+## Hands-on Observations
+
+- Reviewed AWS Network Firewall policies.
+- Compared Action Order and Strict Order.
+- Examined Stateful Rule Groups.
+- Understood how rule evaluation impacts traffic flow.
+- Learned enterprise firewall policy design.
