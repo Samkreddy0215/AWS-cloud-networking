@@ -242,3 +242,11 @@ This repository is designed to:
 - Understood GENEVE encapsulation over UDP port 6081.
 - Learned how route tables steer traffic through security appliances.
 - Reviewed enterprise centralized inspection architecture.
+
+## Hands-on Observations
+
+- Reviewed AWS VPC Encryption Controls.
+- Compared Monitor Mode and Enforce Mode.
+- Understood compliance reporting.
+- Reviewed IAM and CloudTrail integration.
+- Learned enterprise governance and encryption policy concepts.
