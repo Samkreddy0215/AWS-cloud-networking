@@ -234,3 +234,11 @@ This repository is designed to:
 - Examined Stateful Rule Groups.
 - Understood how rule evaluation impacts traffic flow.
 - Learned enterprise firewall policy design.
+
+## Hands-on Observations
+
+- Reviewed Gateway Load Balancer configuration.
+- Examined Gateway Load Balancer Endpoints.
+- Understood GENEVE encapsulation over UDP port 6081.
+- Learned how route tables steer traffic through security appliances.
+- Reviewed enterprise centralized inspection architecture.
