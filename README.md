@@ -250,3 +250,11 @@ This repository is designed to:
 - Understood compliance reporting.
 - Reviewed IAM and CloudTrail integration.
 - Learned enterprise governance and encryption policy concepts.
+
+## Hands-on Observations
+
+- Reviewed AWS Network Firewall Domain List Rule Groups.
+- Compared HTTP_HOST and TLS_SNI inspection.
+- Reviewed Allow, Deny, Reject, and Alert actions.
+- Learned the purpose of HOME_NET.
+- Understood centralized Inspection VPC architecture using Transit Gateway.
