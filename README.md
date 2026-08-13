@@ -258,3 +258,11 @@ This repository is designed to:
 - Reviewed Allow, Deny, Reject, and Alert actions.
 - Learned the purpose of HOME_NET.
 - Understood centralized Inspection VPC architecture using Transit Gateway.
+
+## Hands-on Observations
+
+- Reviewed AWS Network Firewall Suricata Rule Groups.
+- Learned the structure of Suricata rules.
+- Compared PASS, DROP, REJECT, and ALERT actions.
+- Reviewed HOME_NET and EXTERNAL_NET variables.
+- Understood enterprise IDS/IPS implementation using AWS Network Firewall.
