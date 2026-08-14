@@ -266,3 +266,11 @@ This repository is designed to:
 - Compared PASS, DROP, REJECT, and ALERT actions.
 - Reviewed HOME_NET and EXTERNAL_NET variables.
 - Understood enterprise IDS/IPS implementation using AWS Network Firewall.
+
+## Hands-on Observations
+
+- Reviewed AWS Network Firewall Rule Variables.
+- Compared IP Sets and Port Sets.
+- Reviewed HOME_NET and EXTERNAL_NET.
+- Learned how reusable variables simplify Suricata rules.
+- Reviewed enterprise firewall policy design.
